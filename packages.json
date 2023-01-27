@@ -1,0 +1,14 @@
+{
+  "name": "Roddy's SwiftUI Package Collection",
+  "packages": [
+    {
+      "url": "https://github.com/pointfreeco/swift-identified-collections.git"
+    },
+    {
+      "url": "https://github.com/simibac/ConfettiSwiftUI.git"
+    },
+    {
+        "url": "https://github.com/adamrushy/OpenAISwift.git"
+    }
+  ]
+}
